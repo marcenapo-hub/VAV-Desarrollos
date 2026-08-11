@@ -35,3 +35,9 @@ Es la fuente principal para el seguimiento de tareas del proyecto.
   armó el primer dashboard de seguimiento de tareas de VAV Desarrollos a
   partir de las notas de Gemini de las reuniones semanales del 23 y 30 de
   julio 2026 (únicas dos disponibles en el mail a esa fecha).
+- 2026-08-11: Marce curó a mano el borrador del dashboard (kickoff). Reglas
+  para no repetir errores: el software al que Alan sube Pacheco es un
+  proyecto personal de él, no de VAV; Mariano Napolitano no tiene nada que
+  ver con este dashboard; no existe carril "Grupo" (ítems sin responsable
+  claro se descartan o se asignan a una persona). Detalle completo en
+  `memory/projects/tareas-reuniones.md`.

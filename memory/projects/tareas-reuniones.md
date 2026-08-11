@@ -1,61 +1,80 @@
-# Seguimiento de tareas — Reunión Semanal VAV Desarrollos
+# Seguimiento de tareas — VAV Desarrollos
 
-Fuente: notas automáticas de Gemini (gemini-notes@google.com) sobre la
+Fuente original: notas automáticas de Gemini (gemini-notes@google.com) de la
 reunión recurrente "Reunión Semanal - VAV Desarrollos" (jueves 15:30-16:30
-ART), enviadas a marcelo@krak.com.ar. Se actualiza cada vez que llega una
-nota nueva. Al 2026-08-11 hay **2 reuniones registradas por mail**: 23/07 y
-30/07 de 2026.
+ART), enviadas a marcelo@krak.com.ar. El **11/08/2026 Marce curó a mano**
+la primera versión cruda (extraída de las notas del 23 y 30 de julio de
+2026) y esta tabla es desde ahora la fuente de verdad — el resto vive en
+el dashboard (artifact) que se actualiza en paralelo.
 
-El dashboard visual vive como artifact (pedirle a Claude que lo regenere
-cuando haya reuniones nuevas). Esta tabla es la fuente de verdad versionada.
+## Tablero actual (kickoff, curado 11/08/2026)
 
-## Reunión 23/07/2026
+### Alan Leyendo
 
-Temas: MVP del software "Loop" (gestión centralizada + IA), control de
-constructores, estrategia de adquisición de terrenos sin intermediarios.
+| Tarea | Origen |
+|---|---|
+| Cargar el proyecto Pacheco al software | 23 jul |
+| Definir opciones de fachada para la próxima reunión | 23 jul |
+| Consultar al gestor por tiempos de revisión y firma | 23 jul |
+| Finalizar análisis de instalaciones de gas y electricidad | 30 jul |
+| Enviar renders e información de memoria descriptiva | 30 jul |
+| Analizar factibilidad (retiros y metraje) del lote en Congreso 1910 | 30 jul |
 
-| Responsable | Tarea | Estado |
-|---|---|---|
-| Alan Leyendo | Cargar proyecto Pacheco al software Loop (antes del jueves) | Sin confirmar |
-| Alan Leyendo | Definir opciones de fachada para la próxima reunión | Sin confirmar |
-| Alan Leyendo | Configurar Pacheco en el software y cargar toda la info (para el jueves) | Sin confirmar |
-| Alan Leyendo | Consultar al gestor por tiempos de revisión y firma | Sin confirmar |
-| Marcelo | Enseñar configuración de IA (voz a tareas de Trello) | Sin confirmar |
-| Grupo | Visitar terrenos de Plaza Zapiola | Sin confirmar |
-| Grupo | Reunión en obra a las 11:00 (inspección) | Sin confirmar |
-| Grupo | Definir precios de lanzamiento del software Loop | Sin confirmar |
+### Marcelo
 
-## Reunión 30/07/2026
+| Tarea | Origen |
+|---|---|
+| Ofertar por el terreno de Paraguay 5427 | 30 jul |
 
-Temas: viabilidad técnica/financiera, negociación de terrenos, ajustes de
-diseño constructivo (estructura de vigas/losas), comisiones.
+### Mara
 
-| Responsable | Tarea | Estado |
-|---|---|---|
-| Marcelo | Organizar y enviar documento de costos desglosados | Sin confirmar |
-| Marcelo | Ofertar por el terreno de Paraguay 5427 | Sin confirmar |
-| Marcelo | Contactar a Mariano por el proyecto de Teodoro García | Sin confirmar |
-| Marcelo | Finalizar análisis de instalaciones de gas y electricidad | Sin confirmar |
-| Marcelo | Enviar renders e información estructural | Sin confirmar |
-| Marcelo | Grabar y enviar devolución (mensaje de voz) sobre propuesta de desarrollador | Sin confirmar |
-| Marcelo | Escuchar audio sobre terreno y definir estrategia de capital | Sin confirmar |
-| Marcelo | Llamar al gestor por discrepancia detectada | Sin confirmar |
-| Marcelo | Crear esquema técnico de la silueta del edificio | Sin confirmar |
-| Marcelo | Seguimiento administrativo de obra en Monroe y Arcos | Sin confirmar |
-| Marcelo | Analizar factibilidad (retiros y metraje) del lote en Congreso 1910 | Sin confirmar |
-| Marcelo | Contactar clientes interesados en Congreso 1910 | Sin confirmar |
-| Marcelo | Negociar comisiones con Lucas y Rosenfeld | Sin confirmar |
-| Marcelo | Enviar ficha técnica del terreno a Mara | Sin confirmar |
-| Mara | Reunirse con Emiliano por la propuesta digital de Stark | Sin confirmar |
-| Grupo | Coordinar visitas al terreno de Paraguay 5427 | Sin confirmar |
-| Grupo | Encuesta interna: cocinas eléctricas vs. a gas | Sin confirmar |
-| Grupo | Coordinar reunión con propietario del PH en la oficina | Sin confirmar |
+| Tarea | Origen |
+|---|---|
+| Reunirse con Emiliano para ver qué partes de la propuesta digital de Stark siguen vigentes | 30 jul |
 
-## Notas de proceso
+## Contexto relevante para no repetir errores de interpretación
 
-- Las notas de Gemini no distinguen estado (hecho/pendiente) — quedan todas
-  como "Sin confirmar" hasta que Marce o Alan las marquen como resueltas.
-- Cuando llegue una nota nueva: agregar sección `## Reunión DD/MM/AAAA` acá,
-  y pedirle a Claude que regenere el artifact del dashboard.
-- Tarea personal descartada del registro: "comprar medicamentos" (mascota de
-  Alan) — no es un ítem de proyecto.
+- El "software" al que Alan sube la info de Pacheco es un **proyecto
+  personal de Alan**, no una herramienta de VAV Desarrollos — no darle
+  nombre propio (se había interpretado mal como "Loop") ni tratarlo como
+  parte formal del stack de la desarrolladora.
+- **Mariano Napolitano no tiene nada que ver con este dashboard** (es socio
+  de Krak Real Estate residencial, otra empresa) — no volver a incluir
+  tareas suyas acá aunque aparezcan en las notas de Gemini.
+- El carril "Grupo" se eliminó del tablero: las notas de Gemini agrupan ahí
+  ítems logísticos o ambiguos que no son tareas asignables a una persona;
+  no reincorporar sin asignar responsable.
+- Se descartaron duplicados (la carga de Pacheco al software aparecía dos
+  veces en la reunión del 23/07) y tareas fuera de alcance del dashboard
+  (temas personales, ítems ya cubiertos en otros tableros/canales, o
+  demasiado genéricos como "escuchar audio" sin acción concreta).
+
+## Historial crudo (referencia, no editar)
+
+Notas originales de Gemini tal como llegaron, antes de la curación de
+Marce — se conserva solo como respaldo de dónde salió cada ítem.
+
+### Reunión 23/07/2026 (cruda)
+Cargar proyecto Pacheco al software Loop (Alan) · Definir opciones de
+fachada (Alan) · Configurar Pacheco en el software y cargar toda la info
+(Alan, duplicado del anterior) · Consultar al gestor (Alan) · Comprar
+medicamentos para mascota (Alan, personal) · Enseñar configuración de IA
+voz-a-Trello (Marcelo) · Visitar terrenos Plaza Zapiola (Grupo) · Reunión
+en obra 11:00 (Grupo) · Definir precios de lanzamiento del software (Grupo).
+
+### Reunión 30/07/2026 (cruda)
+Enviar costos desglosados (Marcelo) · Ofertar terreno Paraguay 5427
+(Marcelo) · Contactar a Mariano por Teodoro García (Marcelo — descartado,
+Mariano no pertenece a este dashboard) · Coordinar visitas a terreno
+(Grupo) · Encuesta cocinas eléctricas vs. gas (Grupo) · Definir servicios
+de gas/electricidad (reasignado a Alan) · Enviar renders e info estructural
+(reasignado a Alan, ajustado a "memoria descriptiva") · Enviar devolución
+por audio (Marcelo, descartado) · Escuchar audio sobre terreno (Marcelo,
+descartado) · Llamar gestor por discrepancia (Marcelo, descartado) · Crear
+esquema técnico de silueta (Marcelo, descartado) · Seguimiento obra Monroe
+y Arcos (Marcelo, descartado) · Analizar factibilidad Congreso 1910
+(reasignado a Alan) · Contactar clientes Congreso 1910 (Marcelo,
+descartado) · Negociar comisiones con Lucas y Rosenfeld (Marcelo,
+descartado) · Enviar ficha técnica a Mara (Marcelo, descartado) · Reunirse
+con Emiliano por propuesta Stark (Mara) · Coordinar reunión con propietario
+del PH (Grupo, descartado).
