@@ -41,3 +41,9 @@ Es la fuente principal para el seguimiento de tareas del proyecto.
   ver con este dashboard; no existe carril "Grupo" (ítems sin responsable
   claro se descartan o se asignan a una persona); Mara tampoco forma parte
   de este dashboard. Detalle completo en `memory/projects/tareas-reuniones.md`.
+- 2026-08-11: El dashboard **se comparte con Alan**. Se le sumó la sección
+  "Lanzamiento comercial ON Pacheco" con las tareas de marketing del tablero
+  **Krak Studio** de Trello (etiqueta VAV Desarrollos) — la ejecución es de la
+  agencia pero **las definiciones son responsabilidad de Marcelo**. Las reglas
+  internas de curación se sacaron de la vista compartida y quedan solo en el
+  repo. Todo el circuito de lanzamiento estaba vencido a esa fecha.

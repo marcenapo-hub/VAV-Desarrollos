@@ -26,6 +26,47 @@ el dashboard (artifact) que se actualiza en paralelo.
 |---|---|
 | Ofertar por el terreno de Paraguay 5427 | 30 jul |
 
+## Lanzamiento comercial ON Pacheco (fuente: Trello — tablero Krak Studio)
+
+Leído el 11/08/2026. Son tareas de **marketing** que ejecuta Krak Studio pero
+cuyas definiciones son **responsabilidad de Marcelo** (confirmado por Marce el
+11/08). Se sumaron al dashboard como sección aparte de las tareas de reunión.
+
+**Bloqueantes (Marcelo)** — sin esto la agencia no avanza:
+
+| Tarea | Venció |
+|---|---|
+| Definir renders finales o usar los actuales | 23/07 |
+| Definir presupuesto de pauta | 23/07 |
+
+**Ejecución de campaña (Krak Studio, frenada)** — todas vencidas:
+
+| Tarea | Venció |
+|---|---|
+| Armar la landing page de ON Pacheco | 01/08 |
+| Instalar pixel y tracking | 01/08 |
+| Armar piezas gráficas para Meta Ads | 04/08 |
+| Publicar la ficha en portales (Zonaprop / Argenprop) | 04/08 |
+| Armar la secuencia de email marketing | 04/08 |
+| Lanzar Meta Ads y Google Ads | 05/08 |
+
+**Backlog sin fecha (Marcelo)**: carta de captación de terrenos Plaza Zapiola ·
+actualizar el identificador de Instagram en el video de Pacheco.
+
+**Alerta abierta**: 🚨 *Google Ads: 2 cuentas detenidas por verificación de
+anunciante incompleta* (venció 21/07). Bloquea la parte de Google del
+lanzamiento si una de esas cuentas es la de ON Pacheco.
+
+**Riesgo de negocio**: la preventa (30% en 3-4 meses) es lo que financia la
+obra y los planos están aprobados desde el 21/07 — cada semana sin campaña es
+riesgo directo sobre el fondeo.
+
+**Posible duplicado detectado en Trello**: conviven en la lista *Tareas* las
+tarjetas "Armar Landing Page ON Pacheco" (con fecha, vencida 01/08) y "Crear
+landing page de Pacheco (reemplazar aviso de en construcción)" (sin fecha).
+Parecen la misma tarea — pendiente que Marce confirme para unificarlas. En el
+dashboard se muestra solo la primera.
+
 ## Contexto relevante para no repetir errores de interpretación
 
 - El "software" al que Alan sube la info de Pacheco es un **proyecto
@@ -38,6 +79,10 @@ el dashboard (artifact) que se actualiza en paralelo.
 - **Mara no forma parte de este dashboard** (11/08/2026) — no incluir tareas
   suyas ni reincorporar el carril, aunque aparezca en notas de Gemini
   futuras.
+- **El dashboard se comparte con Alan Leyendo** (decisión de Marce, 11/08/2026).
+  Por eso las reglas de curación de esta sección **no se publican en el
+  artifact** — viven solo acá, en el repo. No volver a incluirlas en la vista
+  compartida.
 - El carril "Grupo" se eliminó del tablero: las notas de Gemini agrupan ahí
   ítems logísticos o ambiguos que no son tareas asignables a una persona;
   no reincorporar sin asignar responsable.
