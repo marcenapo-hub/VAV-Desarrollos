@@ -79,6 +79,11 @@ dashboard se muestra solo la primera.
 - **Mara no forma parte de este dashboard** (11/08/2026) — no incluir tareas
   suyas ni reincorporar el carril, aunque aparezca en notas de Gemini
   futuras.
+- **El dashboard NO se divide por fuente de información** (regla de Marce,
+  11/08/2026). Nada de una sección "reuniones" y otra "Trello": una sola vista
+  **por responsable**, con todas las tareas mezcladas y ordenadas por urgencia
+  (vencidas primero, de más a menos atrasada; después las que no tienen fecha).
+  De dónde salió cada ítem es problema del repo, no de la vista.
 - **El dashboard se comparte con Alan Leyendo** (decisión de Marce, 11/08/2026).
   Por eso las reglas de curación de esta sección **no se publican en el
   artifact** — viven solo acá, en el repo. No volver a incluirlas en la vista
