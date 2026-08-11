@@ -26,12 +26,6 @@ el dashboard (artifact) que se actualiza en paralelo.
 |---|---|
 | Ofertar por el terreno de Paraguay 5427 | 30 jul |
 
-### Mara
-
-| Tarea | Origen |
-|---|---|
-| Reunirse con Emiliano para ver qué partes de la propuesta digital de Stark siguen vigentes | 30 jul |
-
 ## Contexto relevante para no repetir errores de interpretación
 
 - El "software" al que Alan sube la info de Pacheco es un **proyecto
@@ -41,6 +35,9 @@ el dashboard (artifact) que se actualiza en paralelo.
 - **Mariano Napolitano no tiene nada que ver con este dashboard** (es socio
   de Krak Real Estate residencial, otra empresa) — no volver a incluir
   tareas suyas acá aunque aparezcan en las notas de Gemini.
+- **Mara no forma parte de este dashboard** (11/08/2026) — no incluir tareas
+  suyas ni reincorporar el carril, aunque aparezca en notas de Gemini
+  futuras.
 - El carril "Grupo" se eliminó del tablero: las notas de Gemini agrupan ahí
   ítems logísticos o ambiguos que no son tareas asignables a una persona;
   no reincorporar sin asignar responsable.

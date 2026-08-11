@@ -39,5 +39,5 @@ Es la fuente principal para el seguimiento de tareas del proyecto.
   para no repetir errores: el software al que Alan sube Pacheco es un
   proyecto personal de él, no de VAV; Mariano Napolitano no tiene nada que
   ver con este dashboard; no existe carril "Grupo" (ítems sin responsable
-  claro se descartan o se asignan a una persona). Detalle completo en
-  `memory/projects/tareas-reuniones.md`.
+  claro se descartan o se asignan a una persona); Mara tampoco forma parte
+  de este dashboard. Detalle completo en `memory/projects/tareas-reuniones.md`.
