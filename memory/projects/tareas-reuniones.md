@@ -51,7 +51,12 @@ cuyas definiciones son **responsabilidad de Marcelo** (confirmado por Marce el
 | Lanzar Meta Ads y Google Ads | 05/08 |
 
 **Backlog sin fecha (Marcelo)**: carta de captación de terrenos Plaza Zapiola ·
-actualizar el identificador de Instagram en el video de Pacheco.
+actualizar el identificador de Instagram en el video de Pacheco · abrir la
+cuenta en **Zona Pro** (Zonaprop) para publicar con sus herramientas y no solo
+con el aviso de emprendimiento · presupuestar las demás herramientas de
+alcance masivo de la plataforma. Estas dos últimas las pidió Marce el
+11/08/2026 y se crearon como tarjetas en Krak Studio → *Tareas*, con etiqueta
+VAV Desarrollos.
 
 **Alerta abierta**: 🚨 *Google Ads: 2 cuentas detenidas por verificación de
 anunciante incompleta* (venció 21/07). Bloquea la parte de Google del
