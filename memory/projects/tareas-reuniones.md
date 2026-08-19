@@ -13,6 +13,7 @@ el dashboard (artifact) que se actualiza en paralelo.
 
 | Tarea | Origen |
 |---|---|
+| Aclarar el cuadro de superficies (bloquea el pricing de Marce) | 11 ago |
 | Cargar el proyecto Pacheco al software | 23 jul |
 | Definir opciones de fachada para la próxima reunión | 23 jul |
 | Consultar al gestor por tiempos de revisión y firma | 23 jul |
@@ -24,6 +25,8 @@ el dashboard (artifact) que se actualiza en paralelo.
 
 | Tarea | Origen |
 |---|---|
+| Armar la propuesta de pricing (depende del cuadro de superficies de Alan) | 11 ago |
+| Reunirse con Alan y el equipo de marketing por la imagen de Babel Desarrollos y ON Pacheco | 11 ago |
 | Ofertar por el terreno de Paraguay 5427 | 30 jul |
 
 ## Lanzamiento comercial ON Pacheco (fuente: Trello — tablero Krak Studio)
@@ -71,6 +74,15 @@ tarjetas "Armar Landing Page ON Pacheco" (con fecha, vencida 01/08) y "Crear
 landing page de Pacheco (reemplazar aviso de en construcción)" (sin fecha).
 Parecen la misma tarea — pendiente que Marce confirme para unificarlas. En el
 dashboard se muestra solo la primera.
+
+## Pendiente de aclarar: "Babel Desarrollos"
+
+Marce lo nombró el 11/08/2026 al pedir la reunión de imagen ("darle forma a la
+imagen de **Babel Desarrollos** y de ON Pacheco"). No figura en ninguna memoria
+previa: la desarrolladora es VAV Desarrollos y la marca de los proyectos es
+"ON". **Preguntarle a Marce qué es** antes de asumir nada — puede ser un
+rebrand de VAV, una sociedad nueva, o el nombre de otro desarrollo. Hasta que
+lo aclare, no tocar `CLAUDE.md` ni la ficha de ON Pacheco con este nombre.
 
 ## Contexto relevante para no repetir errores de interpretación
 
