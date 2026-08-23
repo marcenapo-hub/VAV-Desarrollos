@@ -148,6 +148,11 @@ mencionarse "Babel", volver a confirmar antes de asumir que es lo mismo.
 - **Mara no forma parte de este dashboard** (11/08/2026) — no incluir tareas
   suyas ni reincorporar el carril, aunque aparezca en notas de Gemini
   futuras.
+- **El dashboard NO muestra "Vencida hace X días"** (regla de Marce,
+  23/08/2026) — todas las tareas se muestran como "Sin fecha" en el chip,
+  tengan o no fecha de vencimiento real. Las fechas de vencimiento siguen
+  registradas en Trello y en este repo (fuente de verdad interna); lo que
+  cambia es solo la vista compartida.
 - **El dashboard NO se divide por fuente de información** (regla de Marce,
   11/08/2026). Nada de una sección "reuniones" y otra "Trello": una sola vista
   **por responsable**, con todas las tareas mezcladas y ordenadas por urgencia
