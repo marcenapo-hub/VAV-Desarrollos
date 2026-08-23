@@ -70,6 +70,15 @@ con sutileza, sin romper el tono sereno/sofisticado que pide el brief.
   que es quien maneja la carga societaria) por qué se usó ese domicilio.
   Tratar como diligencia societaria abierta, no como trámite resuelto.
 
+## Comercial / impositivo — pendientes de Marce (23/08/2026)
+
+- Faltan armar los **tres modelos de documentos de venta**: boleto de
+  compraventa, reserva y mutuo. Precondición para poder cerrar ventas en la
+  preventa, más allá del pricing ya definido.
+- Falta averiguar la **exención de Ingresos Brutos (IIBB)** que aplicaría
+  según la categoría de obra de este desarrollo — a confirmar con el estudio
+  contable/impositivo.
+
 ## Otros hallazgos en el Drive
 
 - **Carpeta E-Comercial** tiene: Brochure, Brief On Pacheco, Lista de Precios,

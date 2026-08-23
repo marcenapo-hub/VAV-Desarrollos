@@ -36,6 +36,10 @@ en la reunión y dictó los cambios. Detalle de qué se cerró y qué se sumó e
 | Inscripción de accionistas en la sociedad Pacheco | 23 ago |
 | Preguntar por qué se usó el domicilio legal de Hipólito Yrigoyen para la sociedad | 23 ago |
 | Definir y comprar el celular oficial de VAV Desarrollos | 23 ago |
+| Armar el modelo de boleto de compraventa | 23 ago |
+| Armar el modelo de reserva | 23 ago |
+| Armar el modelo de mutuo | 23 ago |
+| Averiguar la exención de IIBB para la categoría de obra del proyecto | 23 ago |
 
 ## Revisión 23/08/2026 — qué se cerró y qué se sumó
 
