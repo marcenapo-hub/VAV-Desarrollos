@@ -7,27 +7,79 @@ la primera versión cruda (extraída de las notas del 23 y 30 de julio de
 2026) y esta tabla es desde ahora la fuente de verdad — el resto vive en
 el dashboard (artifact) que se actualiza en paralelo.
 
-## Tablero actual (kickoff, curado 11/08/2026)
+**23/08/2026**: Marce repasó el dashboard tarea por tarea contra lo resuelto
+en la reunión y dictó los cambios. Detalle de qué se cerró y qué se sumó en
+"Revisión 23/08/2026" más abajo.
+
+## Tablero actual (revisado 23/08/2026)
 
 ### Alan Leyendo
 
 | Tarea | Origen |
 |---|---|
-| Aclarar el cuadro de superficies (bloquea el pricing de Marce) | 11 ago |
-| Cargar el proyecto Pacheco al software | 23 jul |
 | Definir opciones de fachada para la próxima reunión | 23 jul |
 | Consultar al gestor por tiempos de revisión y firma | 23 jul |
 | Finalizar análisis de instalaciones de gas y electricidad | 30 jul |
 | Enviar renders e información de memoria descriptiva | 30 jul |
-| Analizar factibilidad (retiros y metraje) del lote en Congreso 1910 | 30 jul |
+| Cargar el proyecto Pacheco al software | 23 jul |
+| Ofertar por el terreno de Paraguay 5427 (reasignada de Marcelo, 23/08) | 30 jul |
 
 ### Marcelo
 
 | Tarea | Origen |
 |---|---|
-| Armar la propuesta de pricing (depende del cuadro de superficies de Alan) | 11 ago |
-| Reunirse con Alan y el equipo de marketing por la imagen de Babel Desarrollos y ON Pacheco | 11 ago |
-| Ofertar por el terreno de Paraguay 5427 | 30 jul |
+| Reunirse con Alan y el equipo de marketing por la imagen de VAV Desarrollos y ON Pacheco | 11 ago |
+| Presupuestar las demás herramientas de alcance masivo de Zonaprop | 11 ago |
+| Hacer la visita a los terrenos captados en Plaza Zapiola | 23 ago |
+| Hacer la visita a los terrenos captados en Plaza Alberdi | 23 ago |
+| Ubicar el documento de integración de la titularidad del lote a la sociedad | 23 ago |
+| Inscripción de accionistas en la sociedad Pacheco | 23 ago |
+| Preguntar por qué se usó el domicilio legal de Hipólito Yrigoyen para la sociedad | 23 ago |
+| Definir y comprar el celular oficial de VAV Desarrollos | 23 ago |
+
+## Revisión 23/08/2026 — qué se cerró y qué se sumó
+
+**Terminadas, sacadas del tablero:**
+- Aclarar el cuadro de superficies (Alan)
+- Analizar factibilidad del lote en Congreso 1910 (Alan)
+- Armar la propuesta de pricing (Marcelo — ya con el cuadro de superficies)
+- Abrir la cuenta en Zona Pro / Zonaprop (Marcelo) — la tarjeta en Trello
+  (Krak Studio → Tareas) se movió a Terminado
+- Carta de captación de terrenos Plaza Zapiola (Marcelo) — reemplazada por
+  la tarea de hacer la visita, que sigue pendiente
+
+**Sacadas del dashboard por decisión de Marce (no las declaró terminadas,
+dijo que "no pertenecen a este tablero")** — quedan en Trello si corresponde,
+pero no vuelven a este tablero salvo que Marce lo pida:
+- Destrabar las 2 cuentas de Google Ads detenidas
+- Definir los renders finales o confirmar que se usan los actuales
+
+**Eliminada (no terminada, directamente descartada):**
+- Actualizar el identificador de Instagram en el video de Pacheco
+
+**Reasignada:**
+- Ofertar por el terreno de Paraguay 5427: era de Marcelo, pasa a ser tarea
+  de Alan.
+
+**Nuevas (dictadas por Marce el 23/08/2026):**
+- Hacer la visita a los terrenos captados en Plaza Zapiola y en **Plaza
+  Alberdi**. Plaza Alberdi es una plaza nueva, no estaba en ninguna memoria
+  previa — mismo patrón que Zapiola (carta de captación ya enviada/terminada,
+  falta la visita). Confirmar con Marce si hay que documentarla como zona de
+  interés permanente (como Plaza Zapiola) o fue puntual.
+- Tres tareas de tipo societario/legal sobre **la sociedad que tiene el lote
+  de Pacheco** (no es VAV Desarrollos, es una sociedad propia del proyecto):
+  ubicar el documento de integración de titularidad, la inscripción de
+  accionistas, y por qué el domicilio legal es Hipólito Yrigoyen (Marce dijo
+  textualmente que "no genera mucha confianza" — ver nota de riesgo abajo).
+  Detalle ampliado en `on-pacheco.md`, sección Legal/Societario.
+- Definir y comprar el celular oficial de VAV Desarrollos.
+
+**Nota de riesgo (señalada por el propio Marce, registrada para no perderla):**
+el domicilio legal de la sociedad de Pacheco en Hipólito Yrigoyen generó
+desconfianza en la revisión. Hasta que se aclare por qué se usó ese domicilio,
+tratarlo como un ítem abierto de diligencia societaria, no como trámite de
+rutina.
 
 ## Lanzamiento comercial ON Pacheco (fuente: Trello — tablero Krak Studio)
 
@@ -75,14 +127,14 @@ landing page de Pacheco (reemplazar aviso de en construcción)" (sin fecha).
 Parecen la misma tarea — pendiente que Marce confirme para unificarlas. En el
 dashboard se muestra solo la primera.
 
-## Pendiente de aclarar: "Babel Desarrollos"
+## Resuelto: "Babel Desarrollos" era un error de dictado
 
-Marce lo nombró el 11/08/2026 al pedir la reunión de imagen ("darle forma a la
-imagen de **Babel Desarrollos** y de ON Pacheco"). No figura en ninguna memoria
-previa: la desarrolladora es VAV Desarrollos y la marca de los proyectos es
-"ON". **Preguntarle a Marce qué es** antes de asumir nada — puede ser un
-rebrand de VAV, una sociedad nueva, o el nombre de otro desarrollo. Hasta que
-lo aclare, no tocar `CLAUDE.md` ni la ficha de ON Pacheco con este nombre.
+El 11/08/2026 Marce había nombrado "Babel Desarrollos" al pedir la reunión de
+imagen, sin registro previo en ninguna memoria. El 23/08/2026, al referirse a
+la misma tarea, dijo claramente "VAV Desarrollos" — se interpreta como un
+error de transcripción por voz del 11/08, no como una empresa nueva. Tarea ya
+corregida a "VAV Desarrollos" en el tablero. Si en el futuro vuelve a
+mencionarse "Babel", volver a confirmar antes de asumir que es lo mismo.
 
 ## Contexto relevante para no repetir errores de interpretación
 

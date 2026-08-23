@@ -47,3 +47,13 @@ Es la fuente principal para el seguimiento de tareas del proyecto.
   agencia pero **las definiciones son responsabilidad de Marcelo**. Las reglas
   internas de curación se sacaron de la vista compartida y quedan solo en el
   repo. Todo el circuito de lanzamiento estaba vencido a esa fecha.
+- 2026-08-23: Marce repasó el dashboard tarea por tarea contra la reunión.
+  Se cerraron pricing, cuadro de superficies, factibilidad Congreso 1910,
+  apertura de cuenta Zona Pro (tarjeta movida a Terminado en Trello) y la
+  carta de Plaza Zapiola (queda pendiente la visita). Se sumaron tareas
+  societarias nuevas sobre la sociedad que tiene el lote de Pacheco
+  (inscripción de accionistas, ubicar documento de integración de
+  titularidad, y una duda sobre el domicilio legal en Hipólito Yrigoyen que
+  Marce marcó como poco confiable — ver `memory/projects/on-pacheco.md`).
+  Se confirmó que "Babel Desarrollos" (11/08) fue error de dictado por "VAV
+  Desarrollos". Detalle completo en `memory/projects/tareas-reuniones.md`.

@@ -55,6 +55,21 @@ comercial/racional, pero el tono y concepto rector de marca NO deben sonar a
 venta agresiva ni a "oferta". Hay que integrar el argumento de "sin comisión"
 con sutileza, sin romper el tono sereno/sofisticado que pide el brief.
 
+## Legal / Societario (registrado 23/08/2026, dictado por Marce en revisión)
+
+- El lote de Pacheco está a nombre de **una sociedad propia del proyecto**
+  (no es VAV Desarrollos directamente) — carpeta C-Legal/Societario del Drive,
+  hasta ahora sin explorar, es donde debería estar la documentación.
+- **Alan compró el lote "en comisión"** (a su nombre, por cuenta de la
+  sociedad) y ya está **terminado** el documento que integra esa titularidad
+  a la sociedad — pendiente **ubicar dónde está guardado ese documento**.
+- **Inscripción de accionistas de la sociedad**: pendiente. El alta/kit
+  societario en sí ya está hecho; falta la inscripción de accionistas.
+- **Domicilio legal de la sociedad: Hipólito Yrigoyen.** Marce señaló que
+  "no genera mucha confianza" — pendiente preguntar (a Alan, probablemente,
+  que es quien maneja la carga societaria) por qué se usó ese domicilio.
+  Tratar como diligencia societaria abierta, no como trámite resuelto.
+
 ## Otros hallazgos en el Drive
 
 - **Carpeta E-Comercial** tiene: Brochure, Brief On Pacheco, Lista de Precios,
