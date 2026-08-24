@@ -149,6 +149,10 @@ mencionarse "Babel", volver a confirmar antes de asumir que es lo mismo.
 - **Mara no forma parte de este dashboard** (11/08/2026) — no incluir tareas
   suyas ni reincorporar el carril, aunque aparezca en notas de Gemini
   futuras.
+- **El dashboard muestra una sección "Terminadas"** al final (regla de Marce,
+  23/08/2026), con tachado y chip "Hecho" — no alcanza con sacar la tarea del
+  tablero, hay que dejarla visible como cerrada. Actualizar esa lista cada vez
+  que se cierre algo nuevo.
 - **El dashboard adopta la identidad visual del Manual de Marca de VAV**
   (v1.0, enero 2026, subido por Marce el 23/08/2026): paleta de negro
   (#000000), blanco (#ffffff) y gris institucional Pantone 429C (#a1abb2);
