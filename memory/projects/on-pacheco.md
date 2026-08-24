@@ -33,6 +33,31 @@ futuros bajo "ON + [lugar]".
 - Tipografía principal de títulos: **Manrope**.
 - Filosofía: "la repetición construye valor" — consistencia por sobre impacto puntual.
 
+## Manual de Identidad de VAV Desarrollos (empresa, v1.0, enero 2026)
+
+Distinto del Manual de Identidad de **ON** de arriba (v1.0, abril 2026, marca
+de los desarrollos) — este es el manual de la **empresa VAV Desarrollos**,
+subido por Marce el 23/08/2026. No confundir uno con otro: ON es la marca de
+producto ("ON Pacheco"), VAV es la marca corporativa/institucional.
+
+- **Isotipo**: tres triángulos ("V", "Λ" invertida, "V") que forman "VAV",
+  con el tagline "DESARROLLOS" debajo. Versión única, no se admiten variantes
+  apiladas ni reinterpretaciones — **no redibujar bajo ninguna circunstancia**.
+- **Significado**: "Vav" es una letra del alfabeto hebreo asociada a enlace,
+  conexión y unión — concepto central de la marca institucional.
+- **Slogan institucional**: *"Proyectos que conectan."*
+- **Paleta institucional**: Negro `#000000` (Process Black) · Blanco `#ffffff`
+  (White Opaque) · Gris institucional `#a1abb2` (Pantone 429C).
+- **Tipografías**: Manrope (títulos, mayúsculas, pesos Bold/Semibold, tracking
+  ajustado ~-30, interlínea ~90%) y Heebo (texto de desarrollo/subtítulos,
+  Regular/Medium).
+- **Personalidad**: sólida, consciente, precisa — "estructurada, confiable,
+  honesta"; estética arquitectónica (geometrías claras, blancos y negros,
+  fotografía de obra en blanco y negro), sin gestos superfluos ni
+  "trend-driven".
+- El logo puede usarse sobre fotografía/textura si mantiene legibilidad, y en
+  negro, blanco o el gris institucional — nunca en otro color.
+
 ## Brief de branding/marketing (documento fuente, marzo 2026)
 
 - **Concepto rector**: *"Confort con criterio."*

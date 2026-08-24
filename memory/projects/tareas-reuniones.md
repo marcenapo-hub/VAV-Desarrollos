@@ -36,9 +36,6 @@ en la reunión y dictó los cambios. Detalle de qué se cerró y qué se sumó e
 | Inscripción de accionistas en la sociedad Pacheco | 23 ago |
 | Preguntar por qué se usó el domicilio legal de Hipólito Yrigoyen para la sociedad | 23 ago |
 | Definir y comprar el celular oficial de VAV Desarrollos | 23 ago |
-| Armar el modelo de boleto de compraventa | 23 ago |
-| Armar el modelo de reserva | 23 ago |
-| Armar el modelo de mutuo | 23 ago |
 | Averiguar la exención de IIBB para la categoría de obra del proyecto | 23 ago |
 
 ## Revisión 23/08/2026 — qué se cerró y qué se sumó
@@ -152,6 +149,14 @@ mencionarse "Babel", volver a confirmar antes de asumir que es lo mismo.
 - **Mara no forma parte de este dashboard** (11/08/2026) — no incluir tareas
   suyas ni reincorporar el carril, aunque aparezca en notas de Gemini
   futuras.
+- **El dashboard adopta la identidad visual del Manual de Marca de VAV**
+  (v1.0, enero 2026, subido por Marce el 23/08/2026): paleta de negro
+  (#000000), blanco (#ffffff) y gris institucional Pantone 429C (#a1abb2);
+  tipografía Manrope (bold, mayúsculas, tracking ajustado) para títulos y
+  Heebo para texto/etiquetas. No se recreó el isotipo (las tres V) porque el
+  manual prohíbe redibujarlo — el dashboard usa el nombre en texto, no el
+  logo real. Manual de referencia disponible para consultas de diseño
+  futuras del proyecto (piezas gráficas, brochure, etc.).
 - **El dashboard NO muestra "Vencida hace X días"** (regla de Marce,
   23/08/2026) — todas las tareas se muestran como "Sin fecha" en el chip,
   tengan o no fecha de vencimiento real. Las fechas de vencimiento siguen
