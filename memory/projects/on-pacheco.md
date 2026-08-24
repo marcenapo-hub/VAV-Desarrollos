@@ -57,6 +57,11 @@ producto ("ON Pacheco"), VAV es la marca corporativa/institucional.
   "trend-driven".
 - El logo puede usarse sobre fotografía/textura si mantiene legibilidad, y en
   negro, blanco o el gris institucional — nunca en otro color.
+- **Assets del isotipo**: carpeta de Drive **"VAV Logo"** (dentro de la
+  carpeta madre de VAV, propietario marcelo@krak.com.ar) — 10 PNG con
+  transparencia real (`logos_VAV-01` a `09`). `logos_VAV-04.png` es el
+  isotipo solo (sin tagline "Desarrollos"), negro sobre transparente, el que
+  se usó en el dashboard compartido con Alan (23/08/2026).
 
 ## Brief de branding/marketing (documento fuente, marzo 2026)
 
