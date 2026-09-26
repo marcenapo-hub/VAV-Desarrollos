@@ -41,3 +41,7 @@ Es la fuente principal para el seguimiento de tareas del proyecto.
   ver con este dashboard; no existe carril "Grupo" (ítems sin responsable
   claro se descartan o se asignan a una persona); Mara tampoco forma parte
   de este dashboard. Detalle completo en `memory/projects/tareas-reuniones.md`.
+- 2026-09-26: **No usar nunca más "Confort con criterio"** (en ninguna marca).
+  Concepto de campaña de ON Pacheco en definición a partir de la pregunta
+  "¿Estás donde querés estar?" — ángulo de estilo de vida/hogar, no m².
+  Reglas de copy en `memory/projects/on-pacheco.md`.

@@ -35,9 +35,10 @@ futuros bajo "ON + [lugar]".
 
 ## Brief de branding/marketing (documento fuente, marzo 2026)
 
-- **Concepto rector**: *"Confort con criterio."*
+- ~~Concepto rector: "Confort con criterio."~~ → **DESCARTADO por Marce
+  (26/09/2026). No usarlo más en ninguna pieza ni marca.**
 - **Idea fuerza**: *"La forma sigue a la función"* (dialoga con el nombre ON).
-- **Territorio de lenguaje**: "Confort con criterio", "Diseño con intención",
+- **Territorio de lenguaje** (del brief original): "Diseño con intención",
   "Arquitectura para vivir mejor", "Inteligencia espacial", "Serenidad
   contemporánea", "Habitar con sentido".
 - **Tono**: refinado, contemporáneo, seguro, sensible, claro, no pretencioso,
@@ -64,3 +65,27 @@ con sutileza, sin romper el tono sereno/sofisticado que pide el brief.
 - Carpetas A (Arquitectura/Renders), B (Permisos), C (Legal), D (Finanzas),
   F (Contratistas), G (Compliance), H (Postventa) — vacías o sin explorar en
   profundidad todavía; revisar cuando se necesite ese material puntual.
+
+## Concepto de campaña (en definición, septiembre 2026)
+
+- **Pregunta madre**: *"¿Estás donde querés estar?"* — la propuso Cata
+  (Krak Studio) en la reunión del 14/09/2026. Estrategia acordada: las
+  piezas plantean una pregunta y la respuesta llega con la info del producto.
+- La lógica ON + lugar convierte a la marca en la respuesta a la pregunta.
+
+### Reglas de copy (Marce, 26/09/2026)
+- **No usar "Confort con criterio"** en ningún lado, para ninguna marca.
+- No bajar el concepto a unidades de medida ("cada metro pensado",
+  "cuántos metros no usás"): son deptos chicos y el ángulo es **estilo de
+  vida / hogar**, no m².
+- No comunicar por negación ("sin lujo, sin pose"): no vende un hogar.
+- Nada de preguntas que critiquen la vida actual del comprador
+  (living-oficina-depósito) ni que choquen con el crédito hipotecario
+  ("¿vivís o solo lo pagás?"): hay crédito para usados, no para pozo.
+
+## Datos comerciales (reunión VAV 17/09/2026)
+- Friends & Family: diciembre, 4 a 6 unidades.
+- Público frío: enero tentativo (desacuerdo febrero vs. 1 de marzo, que es
+  también la fecha de inicio de obra).
+- Pago: 40% anticipo en USD + saldo en cuotas ajustadas por CAC.
+- Brochure en dos versiones: sin especificaciones técnicas / con materiales.
