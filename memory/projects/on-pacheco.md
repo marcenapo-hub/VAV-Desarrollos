@@ -83,6 +83,39 @@ con sutileza, sin romper el tono sereno/sofisticado que pide el brief.
   (living-oficina-depósito) ni que choquen con el crédito hipotecario
   ("¿vivís o solo lo pagás?"): hay crédito para usados, no para pozo.
 
+- No usar expresiones coloquiales/vulgares tipo "bajar un cambio".
+- Sacado del manifiesto: "la terraza se llena los domingos".
+
+### Concepto propuesto: "Estar ON" (26-27/09/2026)
+- ON como estado: estar donde querés estar (tu casa, tu barrio, los tuyos).
+- Recorrido: pregunta *¿Estás donde querés estar?* → respuesta *ON Pacheco.
+  Villa Urquiza.* → firma paraguas *Estar ON.* Escalable a cada ON + lugar.
+- Territorios de copy (estilo de vida): tu lugar / el barrio / los tuyos /
+  el diseño que se vive.
+
+### Manifiesto — Marce lo aprobó; falta elegir entre 2 finalistas
+**A**
+> ¿Estás donde querés estar?
+> No hablamos de una dirección.
+> Hablamos de ese lugar donde llegás y respirás distinto.
+> Donde la luz entra a la mañana, el café tiene su momento
+> y cada rincón tiene algo tuyo.
+> Un barrio con árboles en la vereda y la ciudad a mano.
+> Una casa que se parece a vos.
+> Estar ON es eso: estar en tu lugar.
+> ON Pacheco. Villa Urquiza.
+
+**B** (recomendada por Claude)
+> ¿Estás donde querés estar?
+> No hablamos de una dirección.
+> Hablamos de ese lugar donde el tiempo corre a tu ritmo.
+> Donde la luz entra a la mañana, el café tiene su rincón
+> y volver es la mejor parte del día.
+> Un barrio con árboles en la vereda y la ciudad a mano.
+> Una casa que se parece a vos.
+> Estar ON es eso: estar en tu lugar.
+> ON Pacheco. Villa Urquiza.
+
 ## Datos comerciales (reunión VAV 17/09/2026)
 - Friends & Family: diciembre, 4 a 6 unidades.
 - Público frío: enero tentativo (desacuerdo febrero vs. 1 de marzo, que es

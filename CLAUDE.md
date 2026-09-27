@@ -45,3 +45,6 @@ Es la fuente principal para el seguimiento de tareas del proyecto.
   Concepto de campaña de ON Pacheco en definición a partir de la pregunta
   "¿Estás donde querés estar?" — ángulo de estilo de vida/hogar, no m².
   Reglas de copy en `memory/projects/on-pacheco.md`.
+- 2026-09-27: Concepto "Estar ON" para ON Pacheco y manifiesto aprobado en
+  sustancia; quedan 2 finalistas (A/B) para el cierre. Ver
+  `memory/projects/on-pacheco.md`.
