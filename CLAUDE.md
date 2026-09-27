@@ -25,8 +25,22 @@ señalar riesgos, pensar en escalabilidad.
 Google Meet, con notas automáticas de Gemini enviadas a marcelo@krak.com.ar.
 Es la fuente principal para el seguimiento de tareas del proyecto.
 
-→ Detalle de proyectos: `memory/projects/`
-→ Seguimiento de tareas de reuniones: `memory/projects/tareas-reuniones.md`
+## Dónde está cada cosa (leer antes de preguntar)
+| Tema | Archivo |
+|------|---------|
+| **ON Pacheco — ficha maestra** (datos duros, legales, precios, mercado, faltantes) | `memory/projects/on-pacheco.md` |
+| **Landing ON Pacheco — estrategia y estado del trabajo** | `memory/projects/landing-on-pacheco.md` |
+| **Wireframe de la landing** — especificación completa y guía de handoff | `memory/projects/wireframe-landing-on-pacheco.md` |
+| Elementos del wireframe, para volver a renderizarlo en Excalidraw | `memory/projects/wireframe-landing-on-pacheco.elements.json` |
+| Seguimiento de tareas de las reuniones semanales | `memory/projects/tareas-reuniones.md` |
+
+**Si la conversación es sobre ON Pacheco o su landing, leer esos archivos antes
+de pedirle contexto a Marce.** Están escritos para que no tenga que
+volver a explicar nada.
+
+⚠️ `memory/projects/on-pacheco.md` y `landing-on-pacheco.md` tienen copia
+espejo en el repo `MarceClaude`. Si editás una, replicá en la otra en el
+mismo commit.
 
 ## Memorias de tareas
 (Agregar entradas nuevas acá con fecha cuando Marce pida "acordate de X".)

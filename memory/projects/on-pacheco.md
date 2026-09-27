@@ -2,7 +2,9 @@
 
 Última verificación en Drive: 2026-09-16 (sesión de wireframe de landing).
 Fuentes citadas por archivo. Lo que no tiene fuente, no está confirmado.
-Ficha espejo de la que vive en `MarceClaude/memory/projects/on-pacheco.md`.
+**Ficha espejo**: existe una copia idéntica en
+`MarceClaude/memory/projects/on-pacheco.md`. Si editás una, replicá en la otra
+en el mismo commit. La fuente de verdad es esta (repo VAV-Desarrollos).
 
 ## Identificación legal y dominial
 - Pacheco 3026/3028, entre Quesada y Congreso, Villa Urquiza, CABA.

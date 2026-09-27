@@ -71,3 +71,45 @@ próximo ON": esa lista vale plata en el desarrollo n°2.
 - 2026-09-16: wireframe de baja fidelidad en Excalidraw, desktop 1440 y
   mobile 375, 11 secciones, con anotaciones UX/CRO, panel de medición y
   panel de bloqueantes. Falta la guía de handoff escrita para el diseñador.
+
+---
+
+# ESTADO DEL TRABAJO — leer esto primero al retomar
+
+**Última actualización: 2026-09-27.**
+
+## Dónde estamos
+Etapas A (investigación en Drive), B (estrategia), C (arquitectura de
+información) y D (wireframe) **cerradas y validadas por Marce**.
+La landing NO está diseñada ni desarrollada todavía.
+
+## Entregado
+- Ficha del proyecto verificada contra Drive → `on-pacheco.md`
+- Estrategia, arquitectura y decisiones comerciales → este archivo
+- Wireframe desktop + mobile, 11 secciones → `wireframe-landing-on-pacheco.md`
+  (especificación completa y guía de handoff) y
+  `wireframe-landing-on-pacheco.elements.json` (para volver a renderizarlo)
+
+## Próximo paso, en orden
+1. **Conseguir los renders de Alan.** Es el bloqueante duro: sin fachada +
+   2 interiores no se puede diseñar. Tema para la reunión semanal de VAV
+   (jueves 15:30). Pedirle también la memoria descriptiva de terminaciones
+   (Anexo II del boleto).
+2. Definir los datos que faltan: monto de reserva, fórmula del ajuste CAC,
+   fecha estimada de inicio de obra, disponibilidad real por unidad,
+   WhatsApp comercial, dominio.
+3. Pasarle a Krak Studio el paquete de handoff:
+   `wireframe-landing-on-pacheco.md` + el canvas + la lista de assets.
+   **Sin** `ON_Pacheco_Precios.xlsx` ni `On Pacheco.pdf`.
+4. Que Krak Studio releve y confirme los puntos del entorno para la sección
+   de ubicación (no inventar distancias).
+5. Diseño visual → desarrollo → medición.
+
+## Lo que NO hay que volver a discutir (ya decidido)
+- Conversión por WhatsApp con unidad preseleccionada.
+- No se publican precios.
+- Ajuste de cuotas por CAC.
+- Bloque de unidades en posición media-baja.
+- Arquitectura de 11 secciones, con las exclusiones justificadas.
+- En comunicación pública: "planos registrados ante el GCABA", nunca
+  "permiso de obra" ni "obra iniciada".
