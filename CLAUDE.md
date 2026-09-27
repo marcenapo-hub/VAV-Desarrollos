@@ -41,3 +41,20 @@ Es la fuente principal para el seguimiento de tareas del proyecto.
   ver con este dashboard; no existe carril "Grupo" (ítems sin responsable
   claro se descartan o se asignan a una persona); Mara tampoco forma parte
   de este dashboard. Detalle completo en `memory/projects/tareas-reuniones.md`.
+- 2026-09-16: Relevamiento completo del Drive de VAV para armar el wireframe
+  de la landing de ON Pacheco. Tres hallazgos que corrigen lo que veníamos
+  diciendo: (1) el expediente municipal es Registro en Etapa Proyecto y dice
+  literal "no válido para construir" — nunca decir "permiso de obra" ni "obra
+  iniciada", solo "planos registrados ante el GCABA"; (2) homogeneizando al
+  criterio del mercado estamos en USD ~2.930/m², es decir EN LÍNEA con Villa
+  Urquiza, no por debajo: no hay argumento de precio; (3) estamos por debajo
+  en amenities, no abrir esa comparación. Ficha completa reescrita en
+  `memory/projects/on-pacheco.md`; estrategia y arquitectura de la landing en
+  `memory/projects/landing-on-pacheco.md`.
+- 2026-09-16: NO existe ningún render de ON Pacheco en Drive (carpeta
+  A-Arquitectura vacía; el brochure tiene páginas placeholder). Es el
+  bloqueante n°1 del diseño y depende de Alan. Tampoco está la memoria
+  descriptiva de terminaciones (Anexo II del boleto).
+- 2026-09-16: Regla fija — `ON_Pacheco_Precios.xlsx` (costos, margen 81,5%,
+  valor del terreno) y `On Pacheco.pdf` (confidencial socios e inversores) NO
+  se comparten con agencia, diseñador ni terceros.
